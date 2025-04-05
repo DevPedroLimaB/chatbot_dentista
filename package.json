@@ -1,0 +1,13 @@
+{
+    "name": "chatbot_dentista",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "venom-bot": "^5.0.2"
+    }
+}
+
+  
